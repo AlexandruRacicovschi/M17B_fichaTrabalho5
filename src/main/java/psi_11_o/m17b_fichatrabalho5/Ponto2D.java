@@ -1,5 +1,7 @@
 package psi_11_o.m17b_fichatrabalho5;
-
+/**
+ @author Alexandru Racicovschi
+ */
 public class Ponto2D {
     private int x;
     private int y;
